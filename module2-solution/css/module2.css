@@ -13,17 +13,18 @@ h1 {
 
 #chicken {
     background-color: palevioletred;
+    border: 1px black solid;
 }
 
 #beef {
     background-color: red;
     color: snow;
-    border-color: black;
-    border: 1px black;
+    border: 1px black solid;
 }
 
 #sushi {
     background-color: sandybrown;
+    border: 1px black solid;
 }
 
 
@@ -50,7 +51,6 @@ h1 {
         margin: 0;
         border: solid;
         text-align: center;
-        border: 1px
     }
 }
 
@@ -87,7 +87,9 @@ h1 {
         margin: 0;
         border: solid;
         text-align: center;
-        border: 1px
+    }
+    #sushi {
+        left: 81%;
     }
 }
 
@@ -123,6 +125,5 @@ h1 {
         margin: 0;
         border: solid;
         text-align: center;
-        border: 1px
     }
 }
